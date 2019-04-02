@@ -1,2 +1,2 @@
 # aws-policies
-Grab these with CURL and AWS CLI
+Grab these with cURL and AWS CLI
